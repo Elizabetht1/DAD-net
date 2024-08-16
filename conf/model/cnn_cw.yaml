@@ -1,0 +1,6 @@
+name: cnn_cw 
+nfilters1: 10
+nfilters2: 5
+pool1: 2
+pool2: 2
+dimff: 64

@@ -1,0 +1,3 @@
+name: cnn_dn
+hidden_size: 128
+num_filters: 32

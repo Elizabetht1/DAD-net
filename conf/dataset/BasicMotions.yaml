@@ -1,0 +1,7 @@
+name: BasicMotions
+train_data_path: ./data/BasicMotions/raw/BasicMotions_TRAIN.ts
+test_data_path: ./data/BasicMotions/raw/BasicMotions_TEST.ts
+num_classes: 4
+num_features: 6
+sample_frequency: 10
+window_size: 10

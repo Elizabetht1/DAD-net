@@ -1,0 +1,7 @@
+name: Epilepsy
+train_data_path: ./data/Epilepsy/raw/Epilepsy_TRAIN.ts
+test_data_path: ./data/Epilepsy/raw/Epilepsy_TEST.ts
+num_classes: 4
+num_features: 3
+sample_frequency: 16
+window_size: 12.875

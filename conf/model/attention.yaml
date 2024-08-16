@@ -1,0 +1,8 @@
+name: attention
+learnable_pos_enc: true
+batch_normalization: true
+d_model: 32
+dropout: 0.1
+feed_forward_dim: 64
+num_layers: 1
+weights_fp: ""

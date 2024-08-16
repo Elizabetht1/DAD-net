@@ -1,0 +1,10 @@
+ultralytics             
+memory-profiler
+aeon
+matplotlib
+statsmodels 
+scikit-learn
+tqdm
+pyyaml
+onnx
+onnxruntime-gpu

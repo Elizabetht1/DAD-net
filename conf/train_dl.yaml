@@ -1,0 +1,25 @@
+defaults:
+  - _self_
+  - dataset: ???
+  - model: ???
+  - hydra: default.yaml
+
+# Path for saving model weights
+path:
+  output_path: './model_weights'
+
+# Hyperparameters
+hyp:
+  batch_size: 16
+  num_epochs: 50
+  learning_rate: 1e-3
+
+device:
+  gpu: 0  # GPU ID
+  num_workers: 0  # Number of workers for data loading, multiprocessing enabled if > 0
+
+task: "classification"
+log: true
+plots: true
+debug: false
+save: true

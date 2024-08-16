@@ -1,0 +1,10 @@
+name: PoolData
+train_data_path: ./output/train2
+test_data_path: ./output/test2
+sample_frequency: 10
+num_classes: 2
+num_features: 3
+window_size: 5
+window_overlap: 0.95
+include_2d: False
+include_3d: False
