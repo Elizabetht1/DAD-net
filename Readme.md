@@ -1,3 +1,5 @@
+MY CONTRIBUTIONS TO https://github.umn.edu/IRVLab/anomaly_detection
+
 # Anomaly Detection
 ## Load Models 
 | Model Name  | Model Class | Model Overview | Refrence |
